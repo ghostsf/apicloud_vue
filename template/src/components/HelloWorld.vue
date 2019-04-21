@@ -71,6 +71,14 @@
           awesome-vue
         </a>
       </li>
+      <li>
+        <a
+          href="https://ghostsf.com"
+          target="_blank"
+        >
+          ghostsf
+        </a>
+      </li>
     </ul>
   </div>
 </template>
