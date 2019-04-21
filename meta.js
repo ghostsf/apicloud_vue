@@ -9,20 +9,17 @@ module.exports = {
 
     prompts: {
         name: {
-            when: 'isNotTest',
             type: 'string',
             required: true,
             message: 'Project name',
         },
         description: {
-            when: 'isNotTest',
             type: 'string',
             required: false,
             message: 'Project description',
             default: 'A Apicloud & Vue project',
         },
         author: {
-            when: 'isNotTest',
             type: 'string',
             message: 'Author',
             default: 'ghostsf',
