@@ -1,7 +1,7 @@
 # apicloud_vue
 > 当apicloud遇见了vue
 
-> apicloud整合vue
+> vue-cli-template-apicloud-vue
 
 # usage
 
@@ -36,6 +36,6 @@ npm run package
 
 # how
 
-[apicloud如何整合vue？](./doc/image/guide.md)
+[apicloud如何整合vue？](./doc/guide.md)
 
 
