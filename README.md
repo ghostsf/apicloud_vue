@@ -3,6 +3,10 @@
 
 > vue-cli-template-apicloud-vue
 
+![apicloud-logo](doc/image/apicloud.png)  ![vue-logo](doc/image/vue.png)
+
+
+
 # usage
 
 1. 安装vue-cli和apicloud-cli
